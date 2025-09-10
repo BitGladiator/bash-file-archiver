@@ -1,4 +1,4 @@
-# bash-file-archiver
+# Bash-File-Archiver
 
 A simple Bash script to find and prepare large files for archiving. Perfect for basic disk cleanup and automation tasks.
 
